@@ -18,5 +18,6 @@ We welcome contributions from developers, researchers, and anyone passionate abo
    git clone https://github.com/friday13thx/eyerevive.git
 
 2. Install the necessary dependencies:
+
    cd eyerevive
 pip install -r requirements.txt
